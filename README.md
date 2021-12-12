@@ -59,7 +59,7 @@ predict the success of a bank marketing campaign based on the features we have i
   - Number of columns: 21
   
 ## Dataset sourec:
-from Kaggle website [[Kaggle]]( https://https://www.kaggle.com/henriqueyamahata/bank-marketing?select=bank-additional-full.csv )
+from Kaggle website [[Kaggle]](https://www.kaggle.com/henriqueyamahata/bank-marketing?select=bank-additional-full.csv)
 
 
 ## Models:
