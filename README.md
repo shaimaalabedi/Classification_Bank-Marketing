@@ -77,7 +77,7 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/henriqueyamahata/bank-mark
 4. PowerPoint
 5. Zoom
 
-### Languages & Libarry
+### Languages & Library
 <hr>
 
    - Python
@@ -92,6 +92,6 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/henriqueyamahata/bank-mark
 3. Try different models to see which performs best.
 
 ## Team Members
- - Shaima Alzahrani | Leader
+ - Shaima Alzahrani 
  - Raghad Alnasser
  - Nasser Alquraini
