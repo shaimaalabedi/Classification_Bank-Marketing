@@ -62,10 +62,12 @@ predict the success of a bank marketing campaign based on the features we have i
 from Kaggle website [[Kaggle]](https://www.kaggle.com/henriqueyamahata/bank-marketing?select=bank-additional-full.csv)
 
 
-## Models:
+## Algorithms:
 - Logistic Regression
 - K-Nearest Neighbors
-- Decision Trees and Random Forest
+- Decision Trees
+- Random Forest
+- XGBoost
 
 ## Tools:
 ### Softwares:
